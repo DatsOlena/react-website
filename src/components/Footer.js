@@ -56,7 +56,7 @@ function Footer() {
             <Link to='/'>Instagram</Link>
             <Link to='/'>Facebook</Link>
             <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <Link to='/'>X</Link>
           </div>
         </div>
         </div>
@@ -65,10 +65,10 @@ function Footer() {
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
               TRVL
-              <i class='fab fa-typo3' />
+              <i class='fa-brands fa-periscope' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>TRVL © 2023</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
@@ -76,7 +76,7 @@ function Footer() {
               target='_blank'
               aria-label='Facebook'
             >
-              <i class='fab fa-facebook-f' />
+              <i class='fa-brands fa-facebook-f' />
             </Link>
             <Link
               class='social-icon-link instagram'
@@ -84,7 +84,7 @@ function Footer() {
               target='_blank'
               aria-label='Instagram'
             >
-              <i class='fab fa-instagram' />
+              <i class='fa-brands fa-instagram' />
             </Link>
             <Link
               class='social-icon-link youtube'
@@ -92,23 +92,23 @@ function Footer() {
               target='_blank'
               aria-label='Youtube'
             >
-              <i class='fab fa-youtube' />
+              <i class='fa-brands fa-youtube' />
             </Link>
             <Link
-              class='social-icon-link twitter'
+              class='social-icon-link x'
               to='/'
               target='_blank'
-              aria-label='Twitter'
+              aria-label='X'
             >
-              <i class='fab fa-twitter' />
+              <i class='fa-brands fa-x-twitter' />
             </Link>
             <Link
-              class='social-icon-link twitter'
+              class='social-icon-link linkedin'
               to='/'
               target='_blank'
               aria-label='LinkedIn'
             >
-              <i class='fab fa-linkedin' />
+              <i class='fa-brands fa-linkedin' />
             </Link>
           </div>
         </div>
