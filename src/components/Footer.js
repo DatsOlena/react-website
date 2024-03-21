@@ -68,7 +68,7 @@ function Footer() {
               <i class='fa-brands fa-periscope' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2023</small>
+          <small class='website-rights'>TRVL © 2024</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
